@@ -1,5 +1,25 @@
 # pyPept - Original Project (https://github.com/Boehringer-Ingelheim/pyPept)
 
+Install
+
+```Bash
+pip install git+https://github.com/Calici/3rd-party-pyPept.git
+```
+
+requirements.txt
+
+```
+pyPept @ git+https://github.com/Calici/3rd-party-pyPept.git
+```
+
+Execute
+
+```Bash
+cd out_folder
+run_pyPept --fasta NYSKPTDRQYHF --prefix PDL1pep
+run_pyPept --fasta SNTSESF --prefix PD1pep
+```
+
 ## A python library to generate atomistic 2D and 3D representations of peptides
 
 * From the publication [pyPept: a python library to generate atomistic 2D and 3D representations of peptides](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00748-2)
