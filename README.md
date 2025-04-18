@@ -1,18 +1,20 @@
-# pyPept - Original Project (https://github.com/Boehringer-Ingelheim/pyPept)
+# pyPept - [Original Project](https://github.com/Boehringer-Ingelheim/pyPept)
 
-Install
+- Clone date: 2025-04-18
+
+- Install
 
 ```Bash
 pip install git+https://github.com/Calici/3rd-party-pyPept.git
 ```
 
-requirements.txt
+- requirements.txt
 
 ```
 pyPept @ git+https://github.com/Calici/3rd-party-pyPept.git
 ```
 
-Execute
+- Execute
 
 ```Bash
 cd out_folder
